@@ -1,0 +1,36 @@
+{
+  "apps": [
+    {
+      "app_name": "বীরবলের হাঁসির গল্প - Birbal Stories in Bangla",
+      "image_url": "https://rifatranadp.github.io/PriceyApps/com.priceyapps.bangla_birbal_stories.png",
+      "app_id": "com.priceyapps.bangla_birbal_stories"
+    },
+    {
+      "app_name": "কোন রোগের কি ঔষধ ~ Any Disease What is Medicine",
+      "image_url": "https://rifatranadp.github.io/PriceyApps/com.priceyapps.medicine_guide_bangla.png",
+      "app_id": "com.priceyapps.medicine_guide_bangla"
+    },
+    {
+      "app_name": "মহানবীর জীবনী ( সংক্ষিপ্ত ) ~ Nobijir Jiboni",
+	  "image_url": "https://rifatranadp.github.io/PriceyApps/com.priceyapps.nobijir_jibon_kahini.png",
+      "app_id": "com.priceyapps.nobijir_jibon_kahini"
+    },
+    {
+      "app_name": "হিসাব বিজ্ঞান ~ Accounting",
+	  "image_url": "https://rifatranadp.github.io/PriceyApps/com.priceyapps.bangla_accunting_hishab_biggan.png",
+      "app_id": "com.priceyapps.bangla_accunting_hishab_biggan"
+    },
+    {
+      "app_name": "হিসাব বিজ্ঞান ~ Accounting",
+	  "image_url": "https://rifatranadp.github.io/PriceyApps/com.priceyapps.bangla_accunting_hishab_biggan.png",
+      "app_id": "com.priceyapps.bangla_accunting_hishab_biggan"
+    },
+    {
+      "app_name": "হিসাব বিজ্ঞান ~ Accounting",
+	  "image_url": "https://rifatranadp.github.io/PriceyApps/com.priceyapps.bangla_accunting_hishab_biggan.png",
+      "app_id": "com.priceyapps.bangla_accunting_hishab_biggan"
+    }
+  ],
+  "app_data_date_time": "2017-17-15 21:05:00",
+  "success": true
+}
