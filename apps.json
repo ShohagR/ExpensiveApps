@@ -1,16 +1,26 @@
 {
   "apps": [
     {
-      "app_name": "বীরবলের হাঁসির গল্প - Birbal Stories in Bangla",
-      "image_url": "https://rifatranadp.github.io/PriceyApps/com.priceyapps.bangla_birbal_stories.png",
-      "app_id": "com.priceyapps.bangla_birbal_stories"
+      "app_name": "হাতের কাজ শেখা ~ Bangladeshi Hosto Shilpo",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.hatar_kaj.png",
+      "app_id": "com.expensiveapps.hatar_kaj"
     },
     {
-      "app_name": "কোন রোগের কি ঔষধ ~ Any Disease What is Medicine",
-      "image_url": "https://rifatranadp.github.io/PriceyApps/com.priceyapps.medicine_guide_bangla.png",
-      "app_id": "com.priceyapps.medicine_guide_bangla"
+      "app_name": "এপ্রিল ফুল ~ বোকা বানানোর ইতিহাস ~ April Fools",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.april_fools_app.png",
+      "app_id": "com.expensiveapps.april_fools_app"
+    },
+    {
+      "app_name": "দোয়ার বই ~ Doar Vandar",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.doa_bangla.png",
+      "app_id": "com.expensiveapps.doa_bangla"
+    },
+    {
+      "app_name": "বাংলা মেডিটেশন~কোয়ান্টাম মেথড ~ Meditation",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.meditation_apps.png",
+      "app_id": "com.expensiveapps.meditation_apps"
     }
   ],
-  "app_data_date_time": "2017-17-15 21:05:00",
+  "app_data_date_time": "2018-17-15 21:05:00",
   "success": true
 }
