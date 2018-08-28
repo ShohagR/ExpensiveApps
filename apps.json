@@ -29,10 +29,34 @@
       "app_name": "ফানি পিকচার ও ফেসবুক ট্রল~funny picture",
       "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.bangla_funny_pic.png",
       "app_id": "com.expensiveapps.bangla_funny_pic"
+    },
+    {
+      "app_name": "গণিতের শর্টকাট~math tricks~গণিতের সূত্রাবলী",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.math_tricks",
+      "app_id": "com.expensiveapps.math_tricks"
+    },
+    {
+      "app_name": "হাতের লেখা সুন্দর করার উপায়~handwriting",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.handwriting_apps",
+      "app_id": "com.expensiveapps.handwriting_apps"  
+    },
+    {
+      "app_name": "বুদ্ধির খেলা~বুদ্ধি বাড়ানোর উপায়~iq game",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.iq_test_game",
+      "app_id": "com.expensiveapps.iq_test_game"  
+    },
+    {
+      "app_name": "শিশুদের সুন্দর নাম অর্থসহ~Islamic names for baby",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.baby_name",
+      "app_id": "com.expensiveapps.baby_name"  
+    
+    
+    
+    
     
     }
     
   ],
-  "app_data_date_time": "2018-17-15 21:05:00",
+  "app_data_date_time": "2018-19-15 21:05:00",
   "success": true
 }
