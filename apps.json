@@ -24,12 +24,15 @@
       "app_name": "বাংলা নামাজ শিক্ষা বই~নামাজ শিক্ষা~quran sharif",
       "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.namaj_shikkha.png",
       "app_id": "com.expensiveapps.namaj_shikkha"
-    
-    
+    },
+    {
+      "app_name": "ফানি পিকচার ও ফেসবুক ট্রল~funny picture",
+      "image_url": "https://shohagr.github.io/ExpensiveApps/com.expensiveapps.bangla_funny_pic.png",
+      "app_id": "com.expensiveapps.bangla_funny_pic"
     
     }
     
   ],
-  "app_data_date_time": "2018-19-15 21:05:00",
+  "app_data_date_time": "2018-17-15 21:05:00",
   "success": true
 }
